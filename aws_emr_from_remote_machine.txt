@@ -1,0 +1,14 @@
+Primary Talent Manager : 
+Gopalan,Anusha
+Talent Manager(s):
+Mari,Senthil Kumar  (134584)
+Vijayamoorthy,Arun Kumar  (140400)
+Reddy,Vanya  (194595)
+
+
+
+192.168.31.132
+
+
+
+https://programmaticponderings.com/2020/12/02/running-pyspark-applications-on-amazon-emr-methods-for-interacting-with-pyspark-and-automating-job-submissions-on-amazon-emr/
